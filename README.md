@@ -17,9 +17,10 @@ The different pole classes correspond to countries, including:
 *(96 total classes)*
 
 ## Data Sources and Features Used Per Source
+
 | Data Source | Description |
 |-------------|-------------|
-| Utility Pole Dataset | A dataset containing labeled images of utility poles from 96 countries. |
+| [GeoHints Utility Poles Dataset](https://geohints.com/meta/utilityPoles) | All utility pole images were fetched from this dataset, which provides annotated images of utility poles collected from various global sources. |
 
 ## Model Training
 
