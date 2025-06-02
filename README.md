@@ -8,7 +8,7 @@ This project classifies utility pole images by country using both a fine-tuned V
 |---------------|-----|
 | Huggingface   | [Huggingface Space](https://huggingface.co/spaces/gashiari/Utility-Pole-Classification) |
 | Model Page    | [Huggingface Model Page](https://huggingface.co/gashiari/vit-utility-poles) |
-| Code          | [GitHub Repository](https://github.com/your-username/vit-utility-poles) |
+| Code          | [GitHub Repository](https://github.com/Gashiari/Computer-Vision) |
 
 ## Labels
 The different pole classes correspond to countries, including:
